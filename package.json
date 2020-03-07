@@ -1,0 +1,58 @@
+{
+  "name": "@magic-modules/example-list",
+  "version": "0.0.1-alpha.0",
+  "author": "Wizards & Witches",
+  "description": "@magic-modules/example-list. displays a list of all @magic-examples.",
+  "license": "AGPL-3.0",
+  "homepage": "https://magic-modules.github.io/example-list",
+  "engines": {
+    "node": ">=13.5.0"
+  },
+  "engineStrict": true,
+  "scripts": {
+    "start": "t -p",
+    "format": "f -w --exclude docs",
+    "test": "t --exclude docs example config.js",
+    "build": "NODE_ENV=production magic build",
+    "prod": "NODE_ENV=production magic build serve --watch src",
+    "dev": "magic dev --watch src",
+    "calls": "calls"
+  },
+  "main": "src/index.mjs",
+  "module": "src/index.mjs",
+  "type": "module",
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magic-modules/example-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/magic-modules/example-list/issues"
+  },
+  "dependencies": {
+    "@magic-modules/git-list": "0.0.6"
+  },
+  "devDependencies": {
+    "@magic-modules/gdpr": "0.0.14",
+    "@magic-modules/git-badges": "0.0.7",
+    "@magic-modules/light-switch": "0.0.5",
+    "@magic-modules/pre": "0.0.6",
+    "@magic-themes/docs": "0.0.6",
+    "@magic/core": "0.0.58",
+    "@magic/format": "0.0.7",
+    "@magic/test": "0.1.37"
+  },
+  "keywords": [
+    "magic",
+    "magic-examples",
+    "hyperapp"
+  ],
+  "contributors": [
+    {
+      "name": "jascha ehrenreich",
+      "github": "jaeh"
+    }
+  ]
+}
