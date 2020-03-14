@@ -6,7 +6,7 @@ ExampleList component.
 
 It shows a list of all [@magic-examples](https://magic-examples.github.io) pages.
 
-<GitBadges>magic-modules/example-list</GitBadges>
+<GitBadges>@magic-modules/example-list</GitBadges>
 
 ## installation
 
