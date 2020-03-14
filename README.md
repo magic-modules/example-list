@@ -42,5 +42,8 @@ npm install --save-exact @magic-modules/example-list
 ##### 0.0.1
 first release
 
-##### 0.0.2 - unreleased
+##### 0.0.2
+update @magic-modules/git-list
+
+##### 0.0.3 - unreleased
 ...
