@@ -7,6 +7,7 @@ export const View = () =>
       ' these are pages that have been prepared and setup already,',
       ' and that can be used to start working on a @magic app easily.',
     ],
+    badges: false,
     items: [
       {
         name: 'minimal',
