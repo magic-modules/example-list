@@ -1,7 +1,6 @@
 export const state = {
   title: '@magic-modules/example-list',
   description: 'shows a list of all @magic-examples pages.',
-
   logotext: 'ExampleList',
 
   menu: [
