@@ -1,6 +1,6 @@
 {
   "name": "@magic-modules/example-list",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "Wizards & Witches",
   "description": "@magic-modules/example-list. displays a list of all @magic-examples.",
   "license": "AGPL-3.0",
