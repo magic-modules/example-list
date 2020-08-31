@@ -57,5 +57,8 @@ update @magic-modules/git-list
 ##### 0.0.6 
 update git-list to prioritize demo links
 
-##### 0.0.7 - unreleased
+##### 0.0.7
+fix typo in git-list
+
+##### 0.0.8 - unreleased
 ...
