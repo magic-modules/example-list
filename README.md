@@ -61,7 +61,8 @@ update git-list to prioritize demo links
 fix typo in git-list
 
 ##### 0.0.8 
-bump required node version to 14.15.4
+* bump required node version to 14.15.4
+* update dependencies
 
 ##### 0.0.9 - unreleased
 ...
