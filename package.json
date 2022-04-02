@@ -1,6 +1,6 @@
 {
   "name": "@magic-modules/example-list",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "Wizards & Witches",
   "description": "@magic-modules/example-list. displays a list of all @magic-examples.",
   "license": "AGPL-3.0",
@@ -21,7 +21,6 @@
   },
   "main": "src/index.mjs",
   "module": "src/index.mjs",
-  "type": "module",
   "files": [
     "src"
   ],
